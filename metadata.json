@@ -1,0 +1,5 @@
+{
+  "name": "POS Glass Neumorphism",
+  "description": "A modern Point of Sale (POS) application featuring a soft glass neumorphism design. It's built with React, TypeScript, and Tailwind CSS, and designed to work completely offline using local storage as a database. It supports multiple languages (English/Arabic), receipt printing, and PDF/Excel exporting.",
+  "requestFramePermissions": []
+}
